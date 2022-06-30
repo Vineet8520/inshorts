@@ -1,0 +1,15 @@
+.container-fluid a{
+    color: white;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.container-fluid a:hover{
+    font-size: large;
+    
+}
+
+
+.navbar-brand{
+    color: rgba(177, 2, 2, 0.927) !important ;
+}
